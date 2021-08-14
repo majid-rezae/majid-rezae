@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div>
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majid-rezae&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetron&layout=compact&langs_count=3&theme=react"/>
 </div>
  
  ![Snake animation](https://github.com/Thiagobiscoito/Thiagobiscoito/blob/output/github-contribution-grid-snake.svg)
