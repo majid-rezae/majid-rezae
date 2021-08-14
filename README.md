@@ -25,8 +25,8 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/s-majid-rezaee-416537219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 <div>
-  <a href="https://github.com/Thiagobiscoito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmetron&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majid-rezae&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetron&layout=compact&langs_count=7&theme=react"/>
 </div>
  
