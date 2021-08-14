@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
--->
 <h1 align="center">Hi there</h1>
-<h3 align="center">I am very interested in the area of technology and in this way, I intend to prove my courage and dedication in being able to acquire new knowledge and develop my personal and professional skills. I have management experience with projects using Python, Mind Map, MapperIdea, SQL, MATLAB, Fritzing and WordPress.</h3>
+<h3 align="right">I am very interested in the area of technology and in this way, I intend to prove my courage and dedication in being able to acquire new knowledge and develop my personal and professional skills. I have management experience with projects using Python, Mind Map, MapperIdea, SQL, MATLAB, Fritzing and WordPress.</h3>
 
 - 🌱 I’m currently learning artificial intelligence algorithms.
 - 🔭 I’m currently participating on project of “Plataforma de Engenharia de Hardware e Software no Parque Tecnológico de Brasília”.
