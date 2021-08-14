@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there</h1>
-<h3 align="right">I am very interested in the area of technology and in this way, I intend to prove my courage and dedication in being able to acquire new knowledge and develop my personal and professional skills. I have management experience with projects using Python, Mind Map, MapperIdea, SQL, MATLAB, Fritzing and WordPress.</h3>
+<h3 align="left">I am very interested in the area of technology and in this way, I intend to prove my courage and dedication in being able to acquire new knowledge and develop my personal and professional skills. I have management experience with projects using Python, Mind Map, MapperIdea, SQL, MATLAB, Fritzing and WordPress.</h3>
 
 - 🌱 I’m currently learning artificial intelligence algorithms.
 - 🔭 I’m currently participating on project of “Plataforma de Engenharia de Hardware e Software no Parque Tecnológico de Brasília”.
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/Thiagobiscoito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majid-rezae&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majid-rezae&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmetron&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetron&layout=compact&langs_count=7&theme=react"/>
 </div>
  
  ![Snake animation](https://github.com/Thiagobiscoito/Thiagobiscoito/blob/output/github-contribution-grid-snake.svg)
