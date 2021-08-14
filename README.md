@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning artificial intelligence algorithms.
 - 🔭 I’m currently participating on project of “Plataforma de Engenharia de Hardware e Software no Parque Tecnológico de Brasília”.
 - 😄 Keen to develop new skills and acquire new knowledge performing R&D activities.
-- 📫 Contact me via e-mail **rezaee.majid.un@gmail.com** / telephone +55 (61) 981565140 (whatsapp).  
+- 📫 Contact me via e-mail **rezaee.majid.un@gmail.com** 
 
 <h3 align="left">Social Networks:</h3>
  <a href="https://www.linkedin.com/in/s-majid-rezaee-416537219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div>
  <a href="https://github.com/majid-rezae">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majid-rezae&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majid-rezae&layout=compact&langs_count=2&theme=react"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majid-rezae&layout=compact&langs_count=10&theme=react"/>
 </div>
  
  ![Snake animation](https://github.com/Thiagobiscoito/Thiagobiscoito/blob/output/github-contribution-grid-snake.svg)
