@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 
 <h3 align="left"></h3>
 <div>
+ <div style="display: inline_block"><br>
  <a href="https://github.com/majid-rezae">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majid-rezae&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majid-rezae&layout=compact&langs_count=10&theme=react"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majid-rezae&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
+
  ![Snake animation](https://github.com/Thiagobiscoito/Thiagobiscoito/blob/output/github-contribution-grid-snake.svg)
  
