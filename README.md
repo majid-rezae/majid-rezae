@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there</h1>
-<h3 align="left">I am very interested in the area of technology and in this way, I intend to prove my courage and dedication in being able to acquire new knowledge and develop my personal and professional skills. I have experience with projects management using Python, Mind Map, MapperIdea, SQL, MATLAB, Fritzing and WordPress.</h3>
+<h3 align="left">I am very interested in the area of technology and in this way, I intend to prove my courage and dedication in being able to acquire new knowledge and develop my personal and professional skills. I have experience with projects using Python, R, C#, SQL, Matlab, Falcon, Shiny, Dash, Qt Creator, Fritzing and WordPress.</h3>
 
-- 🌱 I’m currently learning artificial intelligence algorithms.
-- 🔭 I’m currently participating on project of “Plataforma de Engenharia de Hardware e Software no Parque Tecnológico de Brasília”.
+- 🌱 I’m currently participating on projects of Machine Learning (ML) and Artificial Intelligence (AI) algorithms
+- 🔭 I’ve laready participated on project of “Plataforma de Engenharia de Hardware e Software no Parque Tecnológico de Brasília”.
 - 😄 Keen to develop new skills and acquire new knowledge performing R&D activities.
 - 📫 Contact me via e-mail **rezaee.majid.un@gmail.com** 
 
